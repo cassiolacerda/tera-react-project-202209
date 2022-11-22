@@ -11,7 +11,7 @@ export default function PostListWrapper(props) {
           image={post.image}
           title={post.title}
           content={post.content}
-          createdAt={post.createAt}
+          createdAt={post.createdAt}
         />
       ))}
     </div>
