@@ -18,7 +18,7 @@ export default function DrawerMenu(props) {
           <Link to="/users">Usuários</Link>
         </ListItem>
         <ListItem>
-          <Link to="/users/5/posts/new">Criar post</Link>
+          <Link to="/users/posts/new">Criar post</Link>
         </ListItem>
       </List>
     </Drawer>
